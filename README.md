@@ -2,6 +2,10 @@
 
 A recipe website showcasing semantic HTML structure. Building this as a foundation for a more feature complete recipe blog site.
 
+## Live Demo
+
+- [View the live site](https://marbling-zero.github.io/recipes-blog/)
+
 ## Current Features
 
 - Semantic HTML
